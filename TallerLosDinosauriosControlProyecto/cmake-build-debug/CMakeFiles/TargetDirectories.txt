@@ -1,0 +1,3 @@
+C:/Users/i7/CLionProjects/TallerLosDinosauriosControlProyecto/cmake-build-debug/CMakeFiles/TallerLosDinosauriosControlProyecto.dir
+C:/Users/i7/CLionProjects/TallerLosDinosauriosControlProyecto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/i7/CLionProjects/TallerLosDinosauriosControlProyecto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
